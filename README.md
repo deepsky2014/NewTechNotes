@@ -6,6 +6,6 @@ To record the progress of my skills.
 
 #Part 3: embeded operating system
 
-#Part 4: algrithm
+#Part 4: algorithm
 
 
